@@ -5,6 +5,5 @@ Current Functionality:
  
  - Accept analog input to pin A0 (photoresistor)
  - Output digital signal to pin D2 (LED)
- 
- -THRESHOLD variable is used to set the threshold at which the D2
+ - THRESHOLD variable is used to set the threshold at which the D2
   pin goes high.

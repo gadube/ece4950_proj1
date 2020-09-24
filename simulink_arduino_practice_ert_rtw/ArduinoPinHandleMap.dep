@@ -1,0 +1,5 @@
+ArduinoPinHandleMap.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2020a/toolbox/target/supportpackages/arduinobase/src/ArduinoPinHandleMap.cpp \
+ C:/Users/gdube/Documents/MATLAB/ece4950_proj_1/simulink_arduino_practice_ert_rtw/rtwtypes.h
+
+C:/Users/gdube/Documents/MATLAB/ece4950_proj_1/simulink_arduino_practice_ert_rtw/rtwtypes.h:
